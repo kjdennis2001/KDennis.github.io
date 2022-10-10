@@ -1,5 +1,5 @@
 html{
-    background-image linear-gradient(to bottom, white 0%, afacd
+    background-image: linear-gradient(to bottom, white 0%, afacd 100%)
 }
 
 body {
@@ -7,7 +7,7 @@ body {
     font-size: 100%;
     margin: 15px auto;
     background-color: white;
-    padding: 15px 1.5em
+    padding: 15px 1.5em;
     border: 1px solid black;
     border-radius: 25px;
     box-shadow: 5px 5px 0 0;
@@ -15,7 +15,7 @@ body {
 }
 
 a:focus, a:hover{
-    font-style:italic
+    font-style:italic;
     color: Orangered;
 }
 header h1{
