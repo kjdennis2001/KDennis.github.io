@@ -50,6 +50,42 @@ header h2{
 article h3 {
     column-span: all;
 }
+article img {
+    float: left;
+    margin-right: 1em;
+    margin-bottom: 1em;
+}
+article p::first-letter {
+    font-size: 3em;
+    font-weight: bold
+    font-style: italic;
+    ;color: lightgreen;
+}
+aside{
+    width: 20%
+    float: right;
+    padding: 0.1em 1em 1em;
+    background-color: yellowgreen;
+}
+footer {
+   clear: both;
+   border-top: 2px solid maroon;
+
+}
+footer p.copyright
+    text-align: center;
+    font-size: 80%
+}
+p.fixed{
+    width: auto;
+    position: fixed;
+    bottom: 35%;
+    right: 0%
+    ;border: 3px solid darkgreen;
+    background-color: lightgreen;
+    padding: 2em;
+
+}
 
 
 
@@ -77,7 +113,32 @@ article h3 {
 
 
 
+<<<<<<< HEAD
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=======
+
+>>>>>>> 7b6ac3f3af98ecb1414d749c0d2159badf9004a2
  font-size: 130%;
  color: #8000000;
  /*color: var(--global-color-1);*/
