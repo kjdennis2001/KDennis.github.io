@@ -7,7 +7,7 @@ body{
     font-size: 100%;
     margin-left: 10px;
     width: 90%
-    background-color: white;
+    ;background-color: white;
     margin: 15px auto;
     padding: 15px 1.5em;
     border: 1px solid black;
@@ -64,7 +64,7 @@ article p::first-letter {
 aside{
     width: 20%
     float: right;
-    padding: 0.1em 1em 1em;
+    ;padding: 0.1em 1em 1em;
     background-color: yellowgreen;
 }
 footer {
