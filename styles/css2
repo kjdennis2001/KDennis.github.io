@@ -1,7 +1,10 @@
   <!DOCTYPE html>
   <Nav>
-<Meta=see the code on ch5 slide #23
+<Meta>=see the code on ch5 slide #23
 <html>
      HomeMenu is the <html>
-     See <the=image/me.png=alt="Kdennis" width="50" height="50"
-     
+     See <the=image/me.png=alt="Kdennis" width="50" height="50">  Main div.contact{
+Introduction<article> that contains some ,Margin; 5em
+       <h2>for Introduction<h2>
+       <h3>for analysis<h3>
+        
