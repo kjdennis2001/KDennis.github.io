@@ -5,13 +5,14 @@
      HomeMenu is the <html>
      See <the=image/me.png=alt="Kdennis" width="50" height="50">  
 
-Introduction<article> that contains some ,Margin; 5em
-       <h1>for Introduction<h1>
+       <h1>"Research Project B"<h1>
+       <h2>for Introduction<h2>
        <h2>for method<h2>
        <h3>for analysis<h3>
        <h4>for results<h4>
        <h2> discussion<h2>
 <img>
-    <li on="the image=https://www.nasa.gov
+    <li on="the image=https://www.nasa.gov"
+<p
 
 
