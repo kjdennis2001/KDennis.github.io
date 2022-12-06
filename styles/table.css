@@ -34,9 +34,11 @@ html, body {
     table.second thead tr:first-child{    
         border-bottom: 2px solid purple;
     }
-    /*-----------------------------------------------------------*/
     table.third {    
         border-collapse: collapse;
+        border: 2px solid purple;
+        caption-side: bottom
+        vertical-align: top;
     }
     table.third thead {
         background-color: lightgreen;
@@ -52,7 +54,7 @@ html, body {
     table.third thead tr:nth-child(2), table.third tr:last-child {    
         border-bottom: 2px solid orangered;
     }
-    /*-----------------------------------------------------------*/
+    
     @media only screen and (max-width: 425px) {
         th, td {
             display: block;
