@@ -15,7 +15,7 @@ label, input, select {
 }
 label {
     float: left;
-    width: 9em;
+    width: 5em;
     text-align: right;
 }
 input, select {
@@ -23,7 +23,7 @@ input, select {
     margin-bottom: .5em;
 }
 input:required {
-    border: 3px solid red;
+    border: 3px solid maroon;
 }
 input:valid {
     border: 1px solid black;
