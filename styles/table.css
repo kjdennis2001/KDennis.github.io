@@ -41,21 +41,20 @@ html, body {
         vertical-align: top;
     }
     table.third thead {
-        background-color: lightgreen;
+        background-color: salmon
+        vertical-align: top;
     }
     table.third th, table.third td {
         padding: 0.7em;
-        vertical-align: top;    
+        vertical-align: middle;
+        border: 2px solid purple
+        vertical-align: top;
     }
     table.third thead tr:first-child{    
-        border-top: 2px solid orangered;
-        border-bottom: 2px solid orangered;
+        border-top: 2px solid purple;
+        vertical-align: top;
     }
-    table.third thead tr:nth-child(2), table.third tr:last-child {    
-        border-bottom: 2px solid orangered;
-    }
-    
-    @media only screen and (max-width: 425px) {
+     @media only screen and (max-width: 425px) {
         th, td {
             display: block;
         }
