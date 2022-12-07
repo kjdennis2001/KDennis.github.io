@@ -4,12 +4,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE-edge">
     <meta name="Viewport" cotnent="width=device-width, intial-
-scale="1.0>"
+scale=1.0">
     <title>Document</title>
  </head>
 <body>
-    
-    <script>
+     <script>
         const today = new Date();
         document.write(today.toDate.String());
         </script>
@@ -23,4 +22,25 @@ scale="1.0>"
         const galloons = parseInt(prompt("enter gallons of gas"))
 "Used"));
      const mpg=parseFlaot(miles/gallons);
-     const html= <p><label>Miles: </label>$Miles 
+     const html= <p><label>Miles: </label>$Miles<P>
+        <p><label>Gallons; </label>$(gallons)</p>
+        <p><label>MPG; </label>$(mpg.toFixed(2)]
+</p>;
+      document.write(html2>
+      </script>)
+
+      <h1>The Rectangle Area Calculator</h1>
+      <script>
+        Const width = parseFlaot(prompt("Enter a width of a 
+        rectangle"))
+            Const height = parseFlaot(prompt('Enter a height of a 
+            rectangle"'))
+            Const area= parseFloat(width*height);
+            Const html13 =<p><label>width: </label>$(width)</p>
+                           <p><label>height: </label>$(height]<P>
+                           <p><label>Area: </label>${area.toFoxed(3)}
+</p>;
+        document.write(<html3);
+      </script>
+      </body>
+      <html>
