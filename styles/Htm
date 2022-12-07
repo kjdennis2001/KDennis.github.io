@@ -14,3 +14,13 @@ scale="1.0>"
         document.write(today.toDate.String());
         </script>
     const today = new Date();
+      <H1>The Test Scores App</H1>
+      <script src="     </script>"
+
+    <h1> The miles per gallon Calculator </h1>
+    <script>
+        const miles = parselent(prompt("Enter miles driven"));
+        const galloons = parseInt(prompt("enter gallons of gas"))
+"Used"));
+     const mpg=parseFlaot(miles/gallons);
+     const html= <p><label>Miles: </label>$Miles 
